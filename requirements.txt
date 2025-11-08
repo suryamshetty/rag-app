@@ -12,6 +12,10 @@ langchain-google-genai>=1.0.10
 pydantic>=2.7.4
 # Sentence transformers for embeddings
 sentence-transformers>=2.2.2
+
+# Google Gemini SDK
+google-generativeai>=0.3.1
+
 # Utilities (avoid forcing reinstall of preinstalled packages)
 # Rich and Markdown packages can be optional if not heavily customized
 # Optional utilities (only if strictly needed)
