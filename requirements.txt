@@ -14,7 +14,8 @@ pydantic>=2.7.4
 sentence-transformers>=2.2.2
 # Utilities (avoid forcing reinstall of preinstalled packages)
 # Rich and Markdown packages can be optional if not heavily customized
-rich>=14.2.0
-markdown-it-py>=4.0.0
-mdurl>=0.1.2
-pygments>=2.19.2git add requirements.txt
+# Optional utilities (only if strictly needed)
+# rich>=14.2.0
+# markdown-it-py>=4.0.0
+# mdurl>=0.1.2
+# pygments>=2.19.2
