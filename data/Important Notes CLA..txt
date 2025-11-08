@@ -1,0 +1,39 @@
+Important Notes CLA.
+
+1. Reload via Pin:
+
+Reload failed via pin:
+if blacklisted, check with CRMS
+
+2. Unable to complete purchase Add-ons transaction:
+
+Hi team, as checked customer already able to purchase the addons. Customer has purchased rm8 5 addon for 3days on 12th may please check with customer again. If complaint is about any specific addon please share the addon details and error screen shot.
+* checked webtool and found the transaction
+
+3. Auto renewals will not be displayed in CLA Transaction history
+
+4. Unable to Subscribe Add-Ons
+
+kyc done. cust unable to use add on data hotspot that he already subscribe
+
+-As verified from cla end no issue with usage please convey customer to check again . If still have any issues on the data coverage or usage please check with cbs team
+
+-Hi team roaming subacriptions canot cancel from cla
+
+5. Complaint on VAS issue- Mobile data.
+
+Error Msg : Invalid Offering ID
+-Hi team please advise customer to clear app cache amd retry again. And offers will be updated
+
+Hi team, kindly validate and advise the customer already canceled the plan 5G 25 Juara Keren 2025 however, the plan is still being renewed.
+
+Sub request to cancel the plan and request for refund. Kindly assist. Thank you.
+
+Hi team as checked auto renewal glag coming as off from dte so we are showing auto renewal as off. Please check and confirm from your end
+
+
+6. Transaction Not shown in transaction history.
+ Auto debit or auto reload transactions are not captured in the CLA transaction history. Please convey this to the customer.
+
+the transaction is not performed from CLA so we are not showing under transaction history
+

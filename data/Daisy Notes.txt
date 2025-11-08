@@ -1,0 +1,303 @@
+Hi Team, as per checking, only base plan quota will be shown in the home page of CLA, Please advice the customer to check inside Usage > Internet to find the additional bonus quota of internet.
+-----------------------------------------------------------------------------------------
+Hi team we are getting prepos indicator as POSTPAID from customer profile. Please check and update prepos indicator as Postpaid. Please refer to below api response
+
+------------------------------------------------------------------------------------------
+Hi Team, 
+Please advice customer to enter into developer mode in settings and then turn off the USB Debugging option.
+Here's a more detailed breakdown:
+
+1. Access Developer Options:
+
+Go to Settings on your Android device.
+
+Navigate to About phone > Build number.
+
+Tap the Build number seven times to unlock Developer Options.
+
+2. Disable USB Debugging:
+
+Go back to Settings.
+
+Find and tap on Developer Options.
+
+Locate USB debugging.
+
+Toggle it off.
+-----------------------------------------------------------------------------------------
+Mention as verified we are getting auto renewal flag as off for all the subscriptions and going to expire in 21days
+-----------------------------------------------------------------------------------------
+Hi Team, Please advice the customer to retry if still facing issue please check with DOB team.
+-----------------------------------------------------------------------------------------
+We are getting number terminated from api response please check and do the needful,
+https://dte.ms.prod.celcom.com.my/osb-customer-retrieve-ent-ms/osb/customerRetrieveENT/
+
+
+{
+    "requestError": {
+        "serviceException": {
+            "messageId": "SVC001",
+            "text": "Search cannot be completed. This MSISDN (01137074227) has been TERMINATED"
+        }
+    }
+}
+
+
+Transfer to: CRMS_C_HOBS
+-----------------------------------------------------------------------------------------
+Hi Team, Charges are not under CLA scope please check with network/CBS team on the charges.
+Below are the transaction details,
+
+Just4ME Add-on Pack Purchase of 3-Day Roaming Pass for 1GB
+
+2025-06-30 14:27:52
+
+Addon ProductId: 82190
+-----------------------------------------------------------------------------------------
+Reload
+
+Hi team if the reload or any transaction directly perform from Bank then it is not under CLA scope. so, moving forward if the reload or bill payment done directly from Bank or other channel, please don't send the tickets to CLA. please send to the correct que.
+
+-----------------------------------------------------------------------------------------
+
+Hi team, adding to the above point, as checked from CLA end transaction is successful as shown in screenshot. Please check with CMP team regarding just4me pass being credited.
+
+
+
+Time: 2025-06-30 22:36:51
+
+Addon ProductId: 82192
+
+
+
+Current Daisy arrangement/flow for CMP just4me related tickets to CLA (C_Apps) as below:
+
+CS (Daisy) > IM (Manual) > CMP L2 Symphony Summit > ITSM (cApps/CLA).
+
+Notes: CMP L2 will take all the tickets first to assess before routing via ITSM.
+
+
+
+-----------------------------------------------------------------------------------------
+Hi team please check with DOB team the VIU premium subscription is from DOB .
+-----------------------------------------------------------------------------------------
+Hi team Change plan and rebate is not from CLA. CLA only display the xontract for rebate please check with crms team.
+-----------------------------------------------------------------------------------------
+Hi Team, as per checking, RM30 has been successfully credited in the customer's account, but after that customer's account has been auto-renewed with ATL MI Monthly RM35 6Mbps No Calls Internet pack. Please find the attachment for reference.
+-----------------------------------------------------------------------------------------
+
+hi team call charges are not under CLA control please check with CBS or network team
+-----------------------------------------------------------------------------------------
+in CLA we dont show termination contract details.  we will show devicebundle contract please convey to customer
+-----------------------------------------------------------------------------------------
+HI Team as verified from no active VIU subscription found. and no deductions. seems order still  pending and not completed and this page is not CLA page its DOB page so kindly check with DOB team if still have any concerns.
+
+-----------------------------------------------------------------------------------------
+HI Team as checked customer dont have any active subscriptions and if customer have any active subscription then CLA will show. if it is deleted then we cannot add from CLA end. if still have any issues related to disney hotstart please check with DOB_OPS
+----------------------------------------------------------------------------------------------
+Hi Team, auto billing payments will not be displayed under transaction history. Thanks.
+--------------------------------------------------------------
+Hi Team, Please raise ticket to CMP as per process
+
+CS (Daisy) > IM (Manual) > CMP L2 Symphony Summit > ITSM (cApps/CLA).
+
+Notes: CMP L2 will take all the tickets first to assess before routing via ITSM.
+
+
+
+Below are the transaction details,
+
+Reload of30.00RM
+Time Stamps: 2025-06-21 11:52:55
+
+Order id:  20250621115255115897
+
+Refer Product Id:  EZ9620250621115257
+
+----------------------------------------------------------
+Hi team as checked no transaction found in CLA. Please advise customer to retry again.
+
+-----------------------------------------------------------
+the transaction is not performed from CLA so we are not showing under transaction history
+
+
+-----------------------------------------------------------------------------------------
+Hi team data usage and speed is not controlling from Celcom life app side. Please check with network team or cbs on the capping conditions
+-----------------------------------------------------------------------------------------
+
+Please refer to the logs from CLA end. OTP already sent from CLA. If customer not receiveing means please can ask customer to check the Device sms settings and try once .. and advise to test in any other device
+
+----------------------------------------------------------------------------------------
+Please help to remove 60GB (4G+5G)(RM10) due to the customer being unable to stop auto-renewal via the Celcom Life app. Kindly assist.
+
+Hi team we are getting auto renewal flag as off from api response. Please check and  validate from your end auto renewal is off or not
+-----------------------------------------------------------------------------------------
+Hi Team, this is the email id to check with perks reward team cbrewards@celcomdigi.com . thanks.
+-----------------------------------------------------------------------------------------
+Hi team refund cannot be done from CLA end. Please check with CBS on the refund process
+-----------------------------------------------------------------------------------------
+Hi team - Kindly inform customer that the hotspot add-on are only available to be purchased when customer is subscribed to those particular Unlimited passes. Thanks
+
+-----------------------------------------------------------------------------------------
+Hi team, CLA will not show autorenewal pass in transaction history. Please check if you can provide from CXinfo. 
+
+-----------------------------------------------------------------------------------------
+Hi team at the momemt ios 16 and lower version having issue . We are working on the fix with 3.0.73 release please advise customer to use alternate channel or any alternate device
+-----------------------------------------------------------------------------------------
+Hi Team, Please advise customer to uninstall and install 3.0.72 app version. if customer already tried uninstall and installing the app, if using iPhone old version please advise customer to update the iOS version 17 and above.
+
+-----------------------------------------------------------------------------------------
+Hi Team, Please advise customer to uninstall and install 3.0.72 app version. if customer using iphone old version please advise customer to update the ios version as well.
+-----------------------------------------------------------------------------------------
+Hi team we are getting subscriber verification error from api response please refer to the logs .
+-----------------------------------------------------------------------------------------
+P: i team, cust unable to view the add on they purchased on  2025-05-01, Kindly assist on this.
+
+S: Hi team as checked customer purchased RM10 10GB pass and pass provisioned already and showing in usage - internet section. Please advise customer to check in usage internet section page.
+-----------------------------------------------------------------------------------------
+P: Hi Team,
+Cust didnt have the 3dots in CLA to remove the Instagram Walla Weekly.
+Kindly remove the Add On from your end, Thank You.
+
+
+S:HI DTE team, as per check on our end there is no three dot option to remove or turn off auto-renewal so plz check on your end and remove the pass and make sure stop auto- renewal  for ASIA pass do the needful and check with relevant team , thanks
+-----------------------------------------------------------------------------------------
+P: Hi Team,
+Cust didnt have the 3 dots to remove the 90GB (4G+5G)(RM10) .
+Kindly remove the Add On from your end. Thank You.
+
+S: HI DTE team, as per check on our end there is no three dot option to remove or turn off auto-renewal so plz check on your end and remove the pass and make sure stop auto- renewal  for ASIA pass do the needful and check with relevant team , thanks
+
+Escalated to: C_28882
+-----------------------------------------------------------------------------------------
+self registration means when customer buy a new sim pack they can do registration from celcom life app to activate the sim card
+-----------------------------------------------------------------------------------------
+Q: Unable to download the bill
+
+S:Hi team as verified mybills already showing and able to download . Please advise customer to login with home wireless number and retry again
+-----------------------------------------------------------------------------------------
+Hi team with 5G unlimited pass customer cannot purchase extra hotspot addon . Customer only eligible to purchase extra hotspot with the unlimited passes showing in the popup please convey to customer thanks
+-----------------------------------------------------------------------------------------
+P: KYC done. Hotspot RM10 30 Gb registered in system however not in app
+
+S: Advise the customer to check under Internet tab in Usage section.
+
+-----------------------------------------------------------------------------------------
+P: customer didnt activate add on pass but it got activated
+
+S: Hi team as verified from our end no purchase for freedom addon on 21st april . Seems as per 12months contract its renewing or provisioning every month
+
+
+Freedom addon 12monyhs contract bro
+-----------------------------------------------------------------------------------------
+
+P: KYC done ncust want to unsubscribe the disney plus hotstart add on.nkindly assist.
+
+S: Hi team as verified no active subscription at CLA now and the subscription showing in the bill is feb one  
+
+No action from CLA end if still have any concerns please check with DOB team.
+
+-----------------------------------------------------------------------------------------
+P: Customer complaint cannot purchase hotspot 8am-6pm 10GB (RM2). Kindly assist, thank you
+
+S: Hi Team, with 5g unlimited internet pass customer cannot purchase hotspot addon directly, In order to purchase hotspot addon customer should have any of this pass(Unlimited Internet Pass) already purchased, only then they can purchase Hotspot add on. Please convey this to the customer.
+
+-----------------------------------------------------------------------------------------
+P: OTP Issue
+
+S:Hi team, as checked no issue with profile please advise customer to check the SMS settings , and restart the device and if customer still using old app version please advise customer to update the app to latest version 3.0.72 and clear app cache and check  if nowstill facing issue then advice customer to provide Screenshot/recording . Thanks
+-----------------------------------------------------------------------------------------
+P: Invalid error message when trying to register the app. 
+
+S: Hi Team as per shared screen shot ticket is not related to Celcom life app please check with Ny digi apps support team
+-----------------------------------------------------------------------------------------
+P: Customer is call barred and in another country.
+
+S: Hi team bill  payment only done for mainline 0193003557. And for shared screen shot its family line and billpayment not paid for shared screen shot family line please convey to customer
+
+-----------------------------------------------------------------------------------------
+P: CLA issuenService Number:60145489229nDevice type:iphone 12 pronCLA: 3.0.66niOS/OS type: applenerror: unable to add on roaming pass "error"n
+
+S: Hi team as checked customet already purchased 7days unlimited pasd and usage also showing in CLA
+
+-----------------------------------------------------------------------------------------
+P: customer purchase internet plan rm35 per month, which is he get unlimited data n call. But when check in celcom life apps, he also got internet hight speed 30gb. Now, his 30gb internet quota is finished and unable to use unlimited plan.
+
+S: Hi team RM35 unlimited pass already provisioned and showing in homepage and usage section plez advise to clear app cache and check again.
+
+-----------------------------------------------------------------------------------------
+P: Hi team. MSISDN 0133885669 still unable to receive OTP.
+Done put SIM on 4 different devices but issue persist. kindly assist.
+customer already done reinstall.
+msisdn: 0133885669
+
+S: Hi team as verified OTP already triggered amd sent from CLA . Plz advise customer to check the device SMS settings and retry again if still have any concerns plz check with primecast team on the sms delivery.
+
+------------------------------------------------------------------------------------------
+P: kyc done. The customer lodged a complaint stating that they are unable to purchase an add-on via the app. According to the customer, they were previously able to make add-on purchases without any issues but are currently facing a problem and unable to proceed with the transaction. kindly assist. thank you.
+
+S: Has advised the customer to clear cache and try again
+
+
+---------------------------------------------------------------------------------------
+P: Complaint on Unable to Subscribe - Add Ons (Mobile App)
+
+S: Hi MVIVA team - The purchase transaction was recorded to be successful on CLA's end. Kindly validate on your end if the provisioning of the offer was successfully triggered. Thanks.
+
+
+Order id : 20250402150941277078
+
+Time stamp :  15:09:41
+
+TRANSFERRED TO: C_NBA
+---------------------------------------------------------------------------------------
+
+1. Issue Summary: customer reload the number but when customer using internet, the number been charges pay per use
+
+2. Troubleshooting Performed​: Checked webtool for transaction details
+
+3. Logs Attached (Y/N)​: N
+
+4. Reason for Transfer: 
+
+
+
+Hi Team, Please raise ticket to CMP as per process
+
+
+
+
+CS (Daisy) > IM (Manual) > CMP L2 Symphony Summit > ITSM (cApps/CLA).
+
+
+
+
+Notes: CMP L2 will take all the tickets first to assess before routing via ITSM.
+
+
+
+Below are the transaction details,
+
+
+
+Reload of20.00RM
+
+Time Stamps: 2025-10-01 23:01:28
+
+Order id: 20251001230128869291
+
+Refer Product Id: HS1920251001230129
+
+
+
+5. Expected Next Step: To raise it to CMP
+
+6. Attachments / Evidence: N
+
+7. Updated By: Surya Mallishetty (CLA)
+
+8. Additional Notes: N
+
+9. Transferred to : BR_Celcom
+
+------------------------------------------------------------------------------------

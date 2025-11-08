@@ -1,0 +1,26 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.pkl
+*.faiss
+
+# Streamlit cache
+.streamlit/
+.streamlit/secrets.toml
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+
+# API keys or config
+*.env
+config.json
+
+# Build files
+*.egg-info/
+dist/
+build/
